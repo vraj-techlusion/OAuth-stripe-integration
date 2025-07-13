@@ -1,0 +1,27 @@
+.login-register-content {
+  min-height: 100vh;
+  background: linear-gradient(160deg, #000428, #004e92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-content {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+.card-header {
+  background: linear-gradient(-160deg, #000428, #004e92);
+  color: #fff;
+  padding: 1.5rem;
+}
+.card-body {
+  background: #fff;
+  padding: 2rem;
+}
+.btn {
+  padding: .75rem;
+  font-size: 1rem;
+}
